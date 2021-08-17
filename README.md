@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Shvquu
-- 👀 I’m interested in Anmes
+- 👀 I’m interested in Animes
 - 🌱 I’m currently learning JavaScript and Python
 - 📫 How to reach me on Discord Shvquu#0811
